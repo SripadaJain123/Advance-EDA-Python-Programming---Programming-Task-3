@@ -52,21 +52,25 @@ Git & GitHub project workflow
 
 🧪 Sample Outputs
 
-✔ Maximum Product of Two Elements
+1.Maximum Product of Two Elements
 Input: [3,4,5,2]
 Output: 12
 
-✔ Count Number of Teams
+2.Count Number of Teams
 Input: [2,5,3,4,1]
 Output: 3
 
-✔ Students Doing Homework at Query Time
+3.Students Doing Homework at Query Time
 Input: start = [1,2,3], end = [3,2,7], query = 4
 Output: 1
 
-✔ Steps to Reduce Number to Zero
+4.Steps to Reduce Number to Zero
 Input: num = 14
 Output: 6
+
+5.Counting Bits
+Input: n = 5
+Output: [0,1,1,2,1,2]
 
 Summary
 This repository demonstrates strong understanding of:
@@ -79,6 +83,4 @@ Dynamic programming for bit-counting
 Clean and efficient Python coding
 Professional GitHub repository documentation
 
-✔ Counting Bits
-Input: n = 5
-Output: [0,1,1,2,1,2]
+
